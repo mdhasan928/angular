@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MyAppCalculator"
+    }
+  },
+  "defaultProject": "MyAppCalculator",
+  "cli": {
+    "analytics": "84ef1633-a361-41a2-807d-d14c3422dd47"
+  }
 }
